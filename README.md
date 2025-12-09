@@ -15,7 +15,7 @@ Modelo de Negocio:
 
 La empresa de telecomunicaciones ofrece servicios de internet, TV y telefonía a sus clientes. La base de datos debe ser capaz de almacenar información sobre los clientes, servicios, pagos y bajas.
 
-Diagrama E-R:
+Diagrama E-R:Se adjunta imagen y archivo SQL text file
               
 
 Listado de Tablas:
