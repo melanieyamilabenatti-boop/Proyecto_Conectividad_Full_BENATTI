@@ -72,6 +72,8 @@ Listado de Tablas:
 - Motivo_Baja (VARCHAR(100))
 - Descuento_Aplicado (DECIMAL(10,2))
 - FOREIGN KEY (Numero_de_Cliente) REFERENCES Clientes(Numero_de_Servicio)
+
+  
  TECNICO: 
 A continuación, les comparto el script de creación de tablas del proyecto:
 
