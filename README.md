@@ -1,17 +1,22 @@
 Proyecto: Base de Datos para Empresa de Telecomunicaciones "CONECTIVIDAD FULL"
 
 Introducción:
+
 El objetivo de este proyecto es diseñar y desarrollar una base de datos para una empresa de telecomunicaciones que permita gestionar la información de los clientes, servicios, pagos y bajas. La base de datos debe ser capaz de almacenar y procesar grandes cantidades de datos de manera eficiente y segura.
 Objetivo:
+
 El objetivo de este proyecto es crear una base de datos que permita a la empresa de telecomunicaciones gestionar de manera efectiva la información de sus clientes, servicios y pagos, y tomar decisiones informadas sobre la base de los datos almacenados.
+
 Situación Problemática:
+
 La empresa de telecomunicaciones actualmente utiliza un sistema manual para gestionar la información de sus clientes, lo que ha llevado a errores y pérdidas de datos. La implementación de una base de datos permitirá a la empresa mejorar la eficiencia y la precisión en la gestión de la información.
 
 Modelo de Negocio:
+
 La empresa de telecomunicaciones ofrece servicios de internet, TV y telefonía a sus clientes. La base de datos debe ser capaz de almacenar información sobre los clientes, servicios, pagos y bajas.
+
 Diagrama E-R:
-                                                                      
- 
+              
 
 Listado de Tablas:
 
